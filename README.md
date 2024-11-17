@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mohamedabdelftah
-- I am a student at ITI - for 9 Months (Geoinformatics Track).
-- 👀 I’m interested in Web Programming & Gis(Geographic Information System)
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Programming
+- 👀 I’m interested in Web Programming & Gis 
+- 🌱 I’m currently work as GIS Developer
 - 📫 How to reach me (www.linkedin.com/in/mohamedabdelftah2050)
 
 <!---
